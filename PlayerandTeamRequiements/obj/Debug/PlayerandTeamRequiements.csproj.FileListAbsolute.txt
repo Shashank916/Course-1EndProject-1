@@ -1,0 +1,8 @@
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\bin\Debug\PlayerandTeamRequiements.exe.config
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\bin\Debug\PlayerandTeamRequiements.exe
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\bin\Debug\PlayerandTeamRequiements.pdb
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\obj\Debug\PlayerandTeamRequiements.csproj.AssemblyReference.cache
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\obj\Debug\PlayerandTeamRequiements.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\obj\Debug\PlayerandTeamRequiements.csproj.CoreCompileInputs.cache
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\obj\Debug\PlayerandTeamRequiements.exe
+D:\Phase-1\Course-End-Projects\PlayerandTeamRequiements\PlayerandTeamRequiements\obj\Debug\PlayerandTeamRequiements.pdb
